@@ -1,0 +1,17 @@
+{
+  "name": "distilx",
+  "displayName": "DistilX",
+  "version": "0.25.2",
+  "description": "Work with DistilX through the DistilX MCP server: read projects and DistilLang code, imports, exports, pipelines and endpoints, evaluate tables and expressions, create projects and upload input files, and change projects through the DistilX agent, with the platform docs at hand.",
+  "author": {
+    "name": "DistilX"
+  },
+  "homepage": "https://distilx.ai/",
+  "keywords": [
+    "distilx",
+    "distillang",
+    "mcp",
+    "data",
+    "spreadsheet"
+  ]
+}

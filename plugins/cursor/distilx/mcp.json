@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "DistilX": {
+      "url": "https://dial.distilx.ai/v1/deployments/distilx-mcp/mcp",
+      "auth": {
+        "CLIENT_ID": "cursor",
+        "scopes": [
+          "openid",
+          "profile",
+          "email"
+        ]
+      }
+    }
+  }
+}

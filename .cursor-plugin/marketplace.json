@@ -1,0 +1,17 @@
+{
+  "name": "distilx",
+  "owner": {
+    "name": "DistilX"
+  },
+  "metadata": {
+    "description": "DistilX plugins.",
+    "pluginRoot": "plugins/cursor"
+  },
+  "plugins": [
+    {
+      "name": "distilx",
+      "source": "distilx",
+      "description": "Work with DistilX through the DistilX MCP server: read projects and DistilLang code, imports, exports, pipelines and endpoints, evaluate tables and expressions, create projects and upload input files, and change projects through the DistilX agent, with the platform docs at hand."
+    }
+  ]
+}

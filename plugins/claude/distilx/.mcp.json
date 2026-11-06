@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "DistilX": {
+      "type": "http",
+      "url": "https://dial.distilx.ai/v1/deployments/distilx-mcp/mcp",
+      "oauth": {
+        "clientId": "claude"
+      }
+    }
+  }
+}
